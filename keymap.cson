@@ -1,0 +1,8 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-down': 'unset!'
+  'ctrl-shift-D': 'unset!'
+  'ctrl-shift-K': 'unset!'
+  'alt-down': 'editor:move-line-down'
+  'alt-up': 'editor:move-line-up'
+  'alt-shift-down': 'editor:duplicate-lines'
+  'ctrl-d': 'editor:delete-line'

@@ -1,0 +1,29 @@
+"*":
+  "atom-python-run": {}
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "6ac43002-abfb-4d80-93c4-f8ad55e8e5c1"
+  "file-icons":
+    coloured: false
+  "linter-ui-default":
+    showPanel: true
+    useBusySignal: false
+  "markdown-preview":
+    useGitHubStyle: true
+  "spell-check":
+    locales: [
+      "fr"
+      "en-US"
+    ]
+  "tool-bar":
+    position: "Left"
+  welcome:
+    showOnStartup: false
